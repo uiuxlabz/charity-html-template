@@ -2,6 +2,10 @@
 
 A premium, framework-free charity website template built with a bespoke organic-warmth design language. Terracotta and forest tones, Fraunces serif headlines, animated donation progress bars, and impact counters that bring grassroots activism to life.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design Distinction
 
 **Design DNA:** Organic warmth meets grassroots activism. The visual language draws from earthy materials — terracotta soil, forest canopies, sage growth — to communicate trust, urgency, and hope. Every design decision reinforces the charity's mission: the warm palette evokes hands in soil, the Fraunces serif carries weight and sincerity, and the data-driven mono typography (DM Mono) grounds abstract impact in measurable numbers.
